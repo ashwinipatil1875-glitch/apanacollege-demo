@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my repo
 <br>
-author ashwini
+author ashwini patil
